@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class prueba1 {
+public class Actividad1 {
 
 public static void promediop(int[] calificaciones, int[] creditos) {
     int sumapromedio = 0;
